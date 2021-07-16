@@ -1,0 +1,28 @@
+[
+  {
+    "repository": "kernel_motorola_sdm632",
+    "target_path": "kernel/motorola/sdm632"
+  },
+  {
+    "repository": "LineageOS/android_system_qcom",
+    "target_path": "system/qcom",
+    "remote": "github",
+    "revision": "lineage-18.1"
+  },
+  {
+    "repository": "LineageOS/android_hardware_motorola",
+    "target_path": "hardware/motorola",
+    "remote": "github",
+    "branch": "lineage-18.1"
+  },
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "remote": "github",
+    "branch": "lineage-18.1"
+  },
+  {
+    "repository": "vendor_motorola_sdm632",
+    "target_path": "vendor/motorola"
+  }
+]
